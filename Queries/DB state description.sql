@@ -1,0 +1,1 @@
+SELECT NAME, state_desc FROM sys.databases

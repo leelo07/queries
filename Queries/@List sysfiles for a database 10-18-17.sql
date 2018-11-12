@@ -1,0 +1,1 @@
+SELECT  * FROM sysfiles WHERE name like '%log%'

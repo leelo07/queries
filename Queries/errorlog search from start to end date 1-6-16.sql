@@ -1,0 +1,1 @@
+EXEC xp_readerrorlog 0, 1, null, null, '2016-01-05', '2016-01-06', 'asc'

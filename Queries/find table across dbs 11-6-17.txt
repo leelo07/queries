@@ -1,0 +1,1 @@
+sp_MSforeachdb 'SELECT "?" AS DB, * FROM [?].sys.tables WHERE name like ''%BHNMMSKEYVALUES%'''
